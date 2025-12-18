@@ -20,7 +20,7 @@ Identify hidden lifestyle patterns using clustering algorithms.
 
 Visualize results for better interpretability.
 
- . Dataset Description
+ 💫 Dataset Description
 
 The dataset contains health and lifestyle attributes such as:
 
