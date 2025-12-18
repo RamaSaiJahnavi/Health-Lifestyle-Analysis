@@ -1,12 +1,12 @@
 # Health-Lifestyle-Analysis
 ✨ Health & Lifestyle Analytics Using Machine Learning
-📌 Project Overview
+💫 Project Overview
 
 This project focuses on analyzing health, lifestyle, and behavioral data to gain meaningful insights and build predictive machine learning models. The system predicts BMI categories, stress levels, and identifies lifestyle patterns using both supervised and unsupervised learning techniques.
 
 The project demonstrates complete data preprocessing, feature selection, model building, evaluation, and visualization using Python.
 
-🎯 Objectives
+✨ Objectives
 
 Analyze health and lifestyle data using exploratory data analysis (EDA).
 
@@ -20,7 +20,7 @@ Identify hidden lifestyle patterns using clustering algorithms.
 
 Visualize results for better interpretability.
 
-🗂️ Dataset Description
+ . Dataset Description
 
 The dataset contains health and lifestyle attributes such as:
 
