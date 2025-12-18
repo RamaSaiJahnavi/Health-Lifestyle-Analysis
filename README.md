@@ -26,7 +26,7 @@ Visualize results for better interpretability.
 
 The dataset contains health and lifestyle attributes such as:
 
-. Age
+Age
 
 Gender
 
